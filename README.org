@@ -1,0 +1,6 @@
+#+TITLE: Project Skeletons
+
+Some personal project skeletons I've been using for a while.
+
+- *[[./pyqt-data-app][PyQt Data App]]* - Python/Qt5 application skeleton including a
+  pyqtgraph plot widget.
