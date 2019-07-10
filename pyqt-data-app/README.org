@@ -1,0 +1,15 @@
+#+TITLE: PyQT Data App
+#+AUTHOR: Brandon Guttersohn
+
+This skeleton serves as the starting point for PyQT applications built
+around reading/plotting data. It includes a basic QApplication with a
+MainWindow, some buttons, and some other junk.
+
+Basically, copy/paste the code into a new repo and work from there.
+
+TODO: Insert screenshot
+
+*Checklist*
+- [ ] Rename =modulename= to the Python module name you want
+- [ ] Rename ApplicationName to the name of the class you want for
+  your QApplication derivative.
